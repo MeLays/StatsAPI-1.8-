@@ -1,0 +1,9 @@
+ name: StatsAPI
+ version: 2.0
+ description: StatsAPI by MeLays
+ author: MeLays
+ main: de.melays.statsAPI.StatsAPI
+ commands:
+   statsapi:
+     description: StatsAPI Info Command
+     usage: Syntax error! Simply type /statsapi to use this command.

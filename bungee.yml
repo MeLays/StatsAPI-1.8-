@@ -1,0 +1,5 @@
+ name: StatsAPI
+ version: 1.8
+ description: StatsAPI by MeLays
+ author: MeLays
+ main: de.melays.StatsAPIBungee.StatsAPIBungee
